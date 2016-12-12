@@ -1,0 +1,20 @@
+{
+  "name": "fable-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolashery/fable-hello-world.git"
+  },
+  "scripts": {
+    "build": "fable --rollup",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "core-js": "2.4.1",
+    "fable-compiler": "0.7.22",
+    "fable-core": "0.7.15"
+  }
+}
